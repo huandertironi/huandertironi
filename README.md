@@ -13,20 +13,24 @@
 
 | AI        |
 |-------------------------------|
-| ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white) |
+| ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white) ResponsesAPI AssistantsAPI Streaming |
+| ![Gem](https://img.shields.io/badge/gem-7493FF?style=for-the-badge&logo=googlegemini&logoColor=white) |
 
 
-| Linguagens        | Frameworks               |
+| Linguagens        |
 |-------------------------------|
-| ![CSharp](https://img.shields.io/badge/Csharp-000000?style=for-the-badge&logo=sharp&logoColor=white)   | ![.NET](https://img.shields.io/badge/.net-5632D5?style=for-the-badge&logo=dotnet&logoColor=white)     |
-| ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) | Node.js, Vue.Js, Typescript e React.js |
-| ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) | ... | 
+| ![CSharp](https://img.shields.io/badge/Csharp-000000?style=for-the-badge&logo=sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.net-5632D5?style=for-the-badge&logo=dotnet&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) Node.js, Vue.Js, Typescript e React.js |
+| ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) | 
 
 
-| Cloud        | Recursos               |
-|-------------------------------|---------------------------------------|
-| ![AWS](https://img.shields.io/badge/AWS-f79400?style=for-the-badge&logo=amazon-aws&logoColor=white)  | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)     |
-| ![GCP](https://img.shields.io/badge/GCP-4082f3?style=for-the-badge&logo=google-cloud&logoColor=white) | ... |
+| Cloud        |
+|-------------------------------|
+| ![AWS](https://img.shields.io/badge/AWS-f79400?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4082f3?style=for-the-badge&logo=google-cloud&logoColor=white) |
+
+| Cloud        |
+|-------------------------------|
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) |
 
 | Infraestrutura        |
 |-------------------------------|
