@@ -56,9 +56,10 @@ Organizo meus projetos por pilares:
 
 ## 🎥 Meu canal no YouTube
 
-[![Coding Tironi no YouTube](https://img.shields.io/badge/YouTube-Coding%20Tironi-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@codingtironi) é onde compartilho conteúdos sobre programação e inteligência artificial aplicada.
+[![Coding Tironi no YouTube](https://img.shields.io/badge/YouTube-Coding%20Tironi-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@codingtironi) 
 
-👉 **Inscreva-se e acompanhe os vídeos técnicos , tutoriais e bastidores dos meus projetos!**  
+👉 **Inscreva-se e acompanhe os conteúdos sobre programação e inteligência artificial aplicada. **
+
 
 ---
 
