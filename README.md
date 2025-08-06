@@ -54,6 +54,17 @@ Organizo meus projetos por pilares:
 
 ---
 
+## 🎥 Meu canal no YouTube
+
+[Coding Tironi – YouTube](https://www.youtube.com/@codingtironi) é onde compartilho conteúdos sobre programação, inteligência artificial aplicada, projetos pessoais e ideias que conectam tecnologia com impacto real.
+
+👉 **Inscreva-se e acompanhe os vídeos técnicos, tutoriais e bastidores dos meus projetos!**  
+&nbsp;
+
+[![Coding Tironi no YouTube](https://img.shields.io/badge/YouTube-Coding%20Tironi-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@codingtironi)
+
+---
+
 ## 📧 Contato
 
 📧 huander.tironi@gmail.com  
