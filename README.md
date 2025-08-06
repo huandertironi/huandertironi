@@ -13,7 +13,6 @@
 ![Gem](https://img.shields.io/badge/gem-7493FF?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ![CSharp](https://img.shields.io/badge/Csharp-000000?style=for-the-badge&logo=sharp&logoColor=white) 
-![.NET](https://img.shields.io/badge/.net-5632D5?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 
