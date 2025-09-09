@@ -1,6 +1,8 @@
-<video align="right" height="590em" controls>  <source src="https://youtu.be/KUnY_WRCA2E?si=gnFWhRAFD45mbnEi"></source></video>
+<video align="right" height="590em" controls>
+  <source src="https://youtu.be/KUnY_WRCA2E?si=gnFWhRAFD45mbnEi"></source>
+</video>
 
-# 👋 Olá pessoal!
+# 👋 Olá pessoal, aqui é Huander Tironi!
 
 **Head de IA Aplicada** | **Founder da TARS & CloudCT**  
 🔒 PhD em andamento em Cibersegurança & Machine Learning (PUCPR)  
@@ -36,10 +38,9 @@
 ## 📂 Meus repositórios
 
 Organizo meus projetos por pilares:
-
-- • 🤖 Projetos pessoais e experimentos com IA e dados
-- • ☁️ POCs e automações em nuvem
-- • 🛠️ Ferramentas open-source e estudos técnicos
+• **🤖 IA** • **📊 Data** - Projetos pessoais e experimentos com IA e dados  
+• **☁️ Cloud** - POCs e automações em nuvem  
+• **🛠️ Dev** - Ferramentas open-source e estudos técnicos  
 
 Sinta-se à vontade para explorar os códigos, ideias e modelos disponíveis.
 
@@ -47,16 +48,16 @@ Sinta-se à vontade para explorar os códigos, ideias e modelos disponíveis.
 
 ## 🎥 Meu canal no YouTube
 
-[![Coding Tironi no YouTube](https://img.shields.io/badge/YouTube-Coding%20Tironi-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@codingtironi)
+[![Coding Tironi no YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@codingtironi)
 
-👉 **Inscreva-se e acompanhe os conteúdos sobre programação e inteligência artificial aplicada. **
+👉 **Inscreva-se e acompanhe os conteúdos sobre programação e inteligência artificial aplicada.**
 
 ---
 
 ## 📧 Contato
 
-📧 huander.tironi@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/huandertironi)  
+📧 [huander.tironi@gmail.com](mailto:huander.tironi@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/huandertironi)
 
-> "Tecnologia útil, ética e transformadora."  
-> Líder de IA | PhD em Cibersegurança | Empreendedor em tecnologia
+*"Tecnologia útil, ética e transformadora."*  
+**Líder de IA | PhD em Cibersegurança | Empreendedor em tecnologia**
